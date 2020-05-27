@@ -1,2 +1,2 @@
-# Algoritmos-basico
+# Algoritmos básicos
 Exemplos de algoritmos básicos
