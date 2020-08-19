@@ -9,7 +9,7 @@ void imprimir(int *vetor, int tamanho);
 int menor(int a, int b);
 int *criarVetorAleatorio(int tamanho);
 
-int main(int argc, char const *argv[])
+int main()
 {
     int run = 32;
     int tamanho = 50 * 1000 * 1000;
